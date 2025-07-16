@@ -2,9 +2,9 @@ Link: https://shorturl.at/TX93n
 
 # TEST NOTES
 
-on Windows 11 24H2 Build 26100.4652 the conversion works fine except for the translucent taskbar. It's buggy.
+on Windows 11 24H2 Build 26100.4652 the conversion works fine except for the translucent taskbar.
 
-on Windows 10 22h2 (last win10 version) it works fine
+You do get the transparent effect, but without the reflection effects.
 
 # .NET Framework 3.5
 
@@ -225,7 +225,7 @@ Click `Restart file Explorer`
 3) On `Quick Flip` Select the `ALT` key (i recommend keeping the `WIN` key so you can keep the classic `alt+tab` switch mechanism)
    
 
-# WindowBlinds (Windows 10 works better here)
+# WindowBlinds
 
 1) Install WindowBlinds and activate trial
    
@@ -274,7 +274,7 @@ modify the path string so that it points to the current location of your cursor.
  2) If you disconnect your user you should now see the new logon UI.
  
  
- # Translucent Task Bar (Windows 10 works better here)
+ # Translucent Task Bar
  
  1) Run `TranslucentTB.exe` provided in `08.Translucent Taskbar`
  
