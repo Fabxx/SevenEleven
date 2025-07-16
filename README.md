@@ -1,4 +1,4 @@
-Link: https://shorturl.at/bNWxB
+Link: todo
 
 # TEST NOTES
 
@@ -186,6 +186,8 @@ Click `Restart file Explorer`
 
 
 # Icon Pack
+
+0) Install .NET 3.5 with `dotNetFx35setup.exe`
 
 1) Open 7TSP GUI
 
