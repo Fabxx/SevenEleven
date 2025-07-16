@@ -6,12 +6,17 @@ on Windows 11 24H2 Build 26100.4652 the conversion works fine except for the tra
 
 on Windows 10 22h2 (last win10 version) it works fine
 
+# .NET Framework 3.5
+
+1) Install .NET 3.5 with `dotNetFx35setup.exe`
 
 # Disable Windows Update
 
 1) run `disable updates.bat`
 
 I have provided a script to completely disable windows update service, since they break the theme applications such as WindowBlinds.
+
+Don't disable win update BEFORE installing .NET or it will fail to download.
 
 
 # Explorer Patcher - Pre-made config
@@ -186,8 +191,6 @@ Click `Restart file Explorer`
 
 
 # Icon Pack
-
-0) Install .NET 3.5 with `dotNetFx35setup.exe`
 
 1) Open 7TSP GUI
 
