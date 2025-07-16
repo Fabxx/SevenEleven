@@ -200,10 +200,7 @@ Click `Restart file Explorer`
 
 3a) If you don't see the archive to select, write manually the name of the archive in the `File name` bar of the window and press enter
 
-4) Click `Start Patching` once, click OK for the restore point and then click again.
-
-   Wait until process is finished. When prompted to reboot, do so.
-   
+4) Click `Start Patching` and agree to create a restore point. Wait until process is finished. When prompted to reboot, do so.
    Once the reboot is done, you will get a message which says `System has been patched`
    
 5) If start menu icons don't update, open settings of `Open-Shell` and on the `Backup` button click the 
