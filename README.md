@@ -131,9 +131,11 @@ Click `Restart file Explorer`
 
 # Start Menu - Pre-made config
 
-1) Open `Open-Shell` and click on the tiny arrow near the `backup` button
+1) Copy `WIN7LIKE COMBO revE.skin7` into `C:\Program Files\Open-Shell\Skins`
 
-2) Click `Load from XML File` and import the provided config called `Windows 7 Menu Settings.xml` in `03.Open-Shell`
+2) Open `Open-Shell` and click on the tiny arrow near the `backup` button
+
+3) Click `Load from XML File` and import the provided config called `Windows 7 Menu Settings.xml` in `03.Open-Shell`
 
 
 
