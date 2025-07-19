@@ -3,18 +3,8 @@ Link: https://shorturl.at/rdaA1
 tested on Windows 11 24H2 Build 26100.4652
 
 # Content
-- Windows 7 Aero Theme (icons, window glass, taskbar)
-- Windows 7 Sound pack (with startup/shutdown sound too)
-- Windows 7 Cursor
-- Windows 7 Start Menu
-- Windows 7 Balloon Legacy Notifications
-- Windows 7 Logon UI
-- Classic Games/Programs such as:
-  - Full Tilt Pinball
-  - Ricochet Xtreme
-  - Win 7 games pack
-  - Encarta 2009 (TODO)
-  - Windows Media Center
+<img width="1609" height="827" alt="immagine" src="https://github.com/user-attachments/assets/1975660e-ef2b-4f2d-9c43-20a5bbab7b8e" />
+
 
 # Screens
 <img width="1920" height="1080" alt="{5F035625-0A7D-4291-BE03-A64BFA3D80E9}" src="https://github.com/user-attachments/assets/e417dcd7-e29d-4363-b11b-ee1e3d17b606" />
