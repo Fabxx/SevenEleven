@@ -1,4 +1,4 @@
-Link: https://mega.nz/file/ZaxlWRAT#M4XYvRAb0kXDgobWBNQd8vV-IcSlVK-x1OtNe7rFHts
+Link: https://mega.nz/file/taIhjATb#cKxiAxg97tEdszvygdXthUvk6c0Zc5Ml3EtvzYrBWq8
 
 tested on Windows 11 24H2 Build 26100.4652
 
@@ -18,6 +18,10 @@ tested on Windows 11 24H2 Build 26100.4652
 
 
 <img width="1164" height="691" alt="immagine" src="https://github.com/user-attachments/assets/2085a57b-4af8-4b1c-8c77-894b5ca395b6" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cdeea69c-dd20-4981-be51-551460d85709" />
+
 
 
 
