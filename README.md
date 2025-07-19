@@ -1,4 +1,4 @@
-Link: https://shorturl.at/rdaA1
+Link: https://mega.nz/file/MLYk1DRb#q-fOIzkkQRyYnnH32DL_lXIx7ffcy0c0u0FEdV-S9HA
 
 tested on Windows 11 24H2 Build 26100.4652
 
