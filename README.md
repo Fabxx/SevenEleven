@@ -16,3 +16,7 @@ tested on Windows 11 24H2 Build 26100.4652
 <img width="525" height="609" alt="immagine" src="https://github.com/user-attachments/assets/225286a8-37c3-4d1a-b56f-0898d93c6999" />
 
 
+<img width="1164" height="691" alt="immagine" src="https://github.com/user-attachments/assets/2085a57b-4af8-4b1c-8c77-894b5ca395b6" />
+
+
+
