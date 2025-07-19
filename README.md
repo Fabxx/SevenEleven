@@ -1,9 +1,9 @@
-Link: https://mega.nz/file/taIhjATb#cKxiAxg97tEdszvygdXthUvk6c0Zc5Ml3EtvzYrBWq8
+Link: https://mega.nz/file/BbBTwSZS#PZlU6SNymopjW4korYvCwxTTUTZ05q7eKxqjd5CutB8
 
 tested on Windows 11 24H2 Build 26100.4652
 
 # Content
-<img width="1609" height="827" alt="immagine" src="https://github.com/user-attachments/assets/1975660e-ef2b-4f2d-9c43-20a5bbab7b8e" />
+<img width="1579" height="886" alt="immagine" src="https://github.com/user-attachments/assets/53bd4c0e-e098-40f6-b7e0-9702d8ab3022" />
 
 
 # Screens
