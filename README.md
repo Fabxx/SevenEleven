@@ -13,7 +13,7 @@ tested on Windows 11 24H2 Build 26100.4652
   - Full Tilt Pinball
   - Ricochet Xtreme
   - Win 7 games pack
-  - Encarta 2007
+  - Encarta 2009 (TODO)
   - Windows Media Center
 
 # Screens
