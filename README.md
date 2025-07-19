@@ -7,7 +7,8 @@ tested on Windows 11 24H2 Build 26100.4652
 
 
 # Screens
-<img width="1920" height="1080" alt="{5F035625-0A7D-4291-BE03-A64BFA3D80E9}" src="https://github.com/user-attachments/assets/e417dcd7-e29d-4363-b11b-ee1e3d17b606" />
+<img width="1916" height="1079" alt="immagine" src="https://github.com/user-attachments/assets/df35f62a-2b36-4858-8ece-2df14ff19af9" />
+
 
 
 <img width="1609" height="827" alt="immagine" src="https://github.com/user-attachments/assets/811b3d1c-3098-4d4e-b180-75417afd3b54" />
